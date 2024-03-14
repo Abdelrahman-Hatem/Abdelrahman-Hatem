@@ -12,6 +12,8 @@
 
 - 💬 Ask me about **Python, Statistics, Power Bi, SQL, Excel**
 
+- 🤝 I’m available for freelancing.
+
 - 📫 How to reach me **abdohatem912@gmail.com**
 
 - 📄 Know about my experiences [resume me](resume me)
