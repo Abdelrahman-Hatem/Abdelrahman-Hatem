@@ -1,4 +1,4 @@
-
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
 <h1 align="center">Hi 👋, I'm Abdelrahman Hatem</h1>
 <h3 align="center">A passionate computer engineer</h3>
 
@@ -19,12 +19,16 @@
 - 📄 Know about my experiences [resume me](resume me)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdelrahman912hatem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelrahman912hatem/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/abdelrahman_abohussian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abdelrahman_abohussian/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/abdohatem912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/abdohatem912" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/abdelrahman_h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/abdelrahman_h" height="30" width="40" /></a>
-<a href="https://discord.gg/abdelrahmanhatem9494" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abdelrahmanhatem9494" height="30" width="40" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/abdelrahman912hatem/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/abdelrahman_abohussian/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://www.hackerrank.com/profile/abdohatem912" target="blank"><img align="center"
+      src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-3521478-2944922.png?f=webp&w=256"
+      alt="hackerrank" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/Abdelrahman_H"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3628695-3029920.png?f=webp&w=256" height="50" width="50" /></a>
+<a href="https://discord.com/channels/abdelrahmanhatem9494" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  
+  
 </p>
 
 
@@ -37,7 +41,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,sqlite,tensorflow,opencv,mysql,postgres,discord,github,html,mongodb,css,figma,discord,pycharm,clion,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,sqlite,tensorflow,opencv,mysql,postgres,discord,github,html,mongodb,css,figma,discord,pycharm,clion,vscode,&perline=14" >
   </a>
 </p>
 <!--
