@@ -1,10 +1,8 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center">Hi 👋, I'm Abdelrahman Hatem</h1>
 <h3 align="center">A passionate computer engineer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Abdelrahman-Hatem" /> </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Hatem&theme=tokyonight&show_icons=true&locale=en" alt="Abdelrahman-Hatem" /></p>
 
 - 🌱 I’m currently learning **Machine learning algorithms**
 
@@ -41,9 +39,13 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,sqlite,tensorflow,opencv,mysql,postgres,discord,github,html,mongodb,css,figma,discord,pycharm,clion,vscode,&perline=14" >
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,tensorflow,opencv,anaconda,cmake,mysql,sqlite,postgres,mongodb,github,html,css,figma,discord,pycharm,clion,visualstudio,raspberrypi,&perline=14" >
   </a>
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Abdelrahman-Hatem" /> </p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Hatem&theme=tokyonight&show_icons=true&locale=en" alt="Abdelrahman-Hatem" /></p>
 <!--
 **Abdelrahman-Hatem/Abdelrahman-Hatem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
