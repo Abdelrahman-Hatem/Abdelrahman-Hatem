@@ -3,6 +3,7 @@
 <h3 align="center">A passionate computer engineer</h3>
 
 
+- 🔭 Check [my graduation project](htt) which is about vehicle tracking and motion prediction in self driving cars 🚗.
 
 - 🌱 I’m currently learning **Machine learning algorithms**
 
