@@ -3,11 +3,11 @@
 <h3 align="center">A passionate computer engineer</h3>
 
 
-- 🔭 Check [my graduation project](htt) which is about vehicle tracking and motion prediction in self driving cars 🚗.
+- 🔭 Check [my graduation project](htt) 
 
 - 🌱 I’m currently learning **Machine learning algorithms**
 
-- 👨‍💻 All of my projects are available at [website]([website](https://abhatem.super.site/))
+- 👨‍💻 All of my projects are available at [website](https://abhatem.super.site/)
 
 - 💬 Ask me about **Python, Statistics, Power Bi, SQL, Excel**
 
