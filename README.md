@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine learning algorithms**
 
-- 👨‍💻 All of my projects are available at [website](website)
+- 👨‍💻 All of my projects are available at [website]([website](https://abhatem.super.site/))
 
 - 💬 Ask me about **Python, Statistics, Power Bi, SQL, Excel**
 
